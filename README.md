@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mwafrika Josué 👋
 
 - 🔭 I’m currently working on Trade By Barter project
 - 🌱 I’m currently learning Typescript
