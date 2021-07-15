@@ -12,3 +12,4 @@
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: Practice coding challenges on Hacker rank
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=mwafrika)
