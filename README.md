@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Practice coding challenges on Hacker rank
 
+![Mwafrika Josué github stats](https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&hide_border=true)
