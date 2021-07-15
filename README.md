@@ -1,6 +1,7 @@
 
 
 ![Mwafrika github stats](https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 ### Hi there, I'm Mwafrika Josué 👋
 
  - 🔭 I’m currently working on Trade By Barter project
@@ -12,4 +13,4 @@
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: Practice coding challenges on Hacker rank
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mwafrika) ![GitHub Contributors Image](https://contrib.rocks/image?repo=mwafrika)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mwafrika&theme=blue-green)
