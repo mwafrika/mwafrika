@@ -4,13 +4,12 @@
 
 ### Hi there, I'm Mwafrika Josué 👋
 
- - 🔭 I’m currently working on Trade By Barter project
- - 🌱 I’m currently learning Typescript
+ - 🔭 I’m currently a student mentor at microverse 
+ - 🌱 I’m currently learning software development
+ - 🤔 I’m looking for new opportunities in software development
  - 👯 I’m looking to collaborate on open source projects
- - 🤔 I’m looking for help with Django
- - 💬 Ask me anything about Javascript or Python
- - 📫 How to reach me: +243995220038 , mwafrikajosue@gmail.com , https://dynamitejobs.com/MwafrikaJosueMufungizi
+ - 💬 Ask me anything about Javascript,React,Redux,Nodejs/Express,CSS,HTML,... 
+ - 📫 How to reach me: +243995220038 , mwafrikajosue@gmail.com 
  - 😄 Pronouns: He/His
- - ⚡ Fun fact: Practice coding challenges on Hacker rank
+ - ⚡ Fun fact: Practice coding challenges on Hacker rank and leetcode
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mwafrika&theme=blue-green)
