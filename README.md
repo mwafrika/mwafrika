@@ -8,8 +8,8 @@
  - 🌱 I’m currently learning software development
  - 🤔 I’m looking for new opportunities in software development
  - 👯 I’m looking to collaborate on open source projects
- - 💬 Ask me anything about Javascript,React,Redux,Nodejs/Express,CSS,HTML,... 
- - 📫 How to reach me: +243995220038 , mwafrikajosue@gmail.com 
+ - 💬 Ask me anything about Javascript| React| Redux| Nodejs/Express| CSS| HTML ... 
+ - 📫 How to reach me: +243995220038 | mwafrikajosue@gmail.com 
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: Practice coding challenges on Hacker rank and leetcode
 
