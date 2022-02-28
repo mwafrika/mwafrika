@@ -1,6 +1,4 @@
-
-
-![Mwafrika github stats](https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![Mwafrika's github stats](https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&theme=radical)](https://github.com/mwafrika/github-readme-stats)
 
 ### Hi there, I'm Mwafrika Josué 👋
 
@@ -13,3 +11,4 @@
  - 😄 Pronouns: He/His
  - ⚡ Fun fact: Practice coding challenges on Hacker rank and leetcode
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwafrika&show_icons=true&theme=radical&layout=compact)](https://github.com/mwafrika/github-readme-stats)
