@@ -1,7 +1,12 @@
-### Connect with me:
+<h1 align="center">Connect with me </h1>
+<br>
+<div align="center">
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mwafrikamufung1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mwafrika-mufungizi/)
-[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mwafrikajosue@gmail.com) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/mwafrika)
+  <a href="">[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mwafrikamufung1)</a>
+  <a href="">[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mwafrika-mufungizi/)</a>
+  <a href="mailto:mwafrikajosue@gmail.com">[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)]()</a>
+  <a href=""> [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/mwafrika)</a>
+</div>
 
 <!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
 <h1 align="center">
