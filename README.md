@@ -16,24 +16,21 @@
   </a>
 </h1>
   <br>
-<p align="center">
-  🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
-  <br>
- <br>
-  💻 I love solving coding challenges and to work outside of my comfort zone .
-  <br>
- <br>
-  🤔 I’m looking for new opportunities in software development
-  <br>
- <br>
-  👯 I’m looking to collaborate on open source projects
-  <br>
-  <br>
-  💬 Feel free to ask me any question about JavaScript,React,Redux,Nodejs/Express,CSS,HTML ...  <a href="https://github.com/mwafrika/mwafrika/issues" title="Issues">Here</a>
+<h2 align="center">Thanks for visiting my GitHub profile, it's great to meet you here! 😊 </h2>
+<div align="center">
+ 
+Here are some quick things about me:
+
+ 🔭 I'm a software engineer who is paranoid about convention, consistency, and constraints. 
+ 🕵️‍♀️ I like doing quality work, and a real asshole on pull request reviews.
+ 🧸 I'm proud of who I am, what I have built, and what I am building. 
+ 🧑‍💻 Coding is my life. 
+ 📫 The best way to reach me is to send me an email 
+ ⚡ Fun fact: I enjoy dancing and celebrating with others after a long day's work.
+ 💬 Feel free to ask me any question about JavaScript,React,Redux,Nodejs/Express,CSS,HTML ...  <a href="https://github.com/mwafrika/mwafrika/issues" title="Issues">Here</a>
   <br>
   <br>
-  📫 You can reach me on: <a>mwafrikajosue@gmail.com</a>
-</p>
+</div>
 
 <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
