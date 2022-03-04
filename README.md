@@ -15,7 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mwafrika...;A+Software+Engineer;Nice+to+meet+you+🙂&center=true&size=30">
   </a>
 </h1>
-  <br>
 <h2 align="center">Thanks for visiting my GitHub profile, it's great to meet you here! 😊 </h2>
 <div align="center">
  
