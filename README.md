@@ -1,19 +1,3 @@
-💻 **Languages and Tools:** 🛠️<br>
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&labelColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Express](https://img.shields.io/badge/-express-000000?style=flat&logo=express&logoColor=339AF0&labelColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwind&logoColor=blue&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=violet)
-
-
 ### Connect with me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mwafrikamufung1) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mwafrika-mufungizi/)
@@ -77,8 +61,7 @@
     </a>
   </div>
    <br><br><br>
-   
-   
+ 
  <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=mwafrika&theme=xcode" alt="Contribution Graph" align="center" />
