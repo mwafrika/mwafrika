@@ -1,5 +1,5 @@
-<h1 align="center">Connect with me </h1>
-<br>
+<!-- <h1 align="center">Connect with me </h1>
+<br> -->
 <div align="center">
 
   <a href="">[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mwafrikamufung1)</a>
