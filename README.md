@@ -49,16 +49,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=mwafrika&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mwafrika" />
+      <img align="left" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=mwafrika&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="mwafrika" />
     </a>
     <a href="https://github.com/mwafrika/github-readme-stats" title="Go to Source">
-      <img align="right" width=430 src="https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=mwafrika&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=430 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwafrika&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwafrika&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
     </a>
   </div>
    <br><br><br>
